@@ -7,7 +7,7 @@
     <groupId>hu.blackbelt</groupId>
     <artifactId>unpack-artifact-maven-plugin</artifactId>
     <packaging>maven-plugin</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>Unpack artifact maven plugin</name>
     <description>Unpacking maven artifacts</description>
